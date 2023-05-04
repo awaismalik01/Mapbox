@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "email": "mawais_malik@hotmail.com",
+      "password": "123",
+      "name": "Awais Ahmed Malik",
+      "contact": "0316 623 0844",
+      "city": "Lahore",
+      "terms": "true",
+      "id": 1
+    }
+  ]
+}
